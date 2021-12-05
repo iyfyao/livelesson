@@ -1,4 +1,5 @@
 - 'git init' : initialize current folder as a git repository
 - 'git clone <url>' : brings the git repo from <url> to current folder
-
- 
+- 'git status' : provide information about what have been done or not
+- 'git add' : add file to the staging area
+- 'git commit' : open nano text for you to add your commments
