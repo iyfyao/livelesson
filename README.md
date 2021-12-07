@@ -6,4 +6,8 @@
 - 'git commit -m "message"' : add comment to your commit without text editor
 - 'git log' : check the history of your activity,your different commit
 - 'git log --oneline' : return the history of your activity (a kind of summary)
+- 'git diff ' : difference between commits history
+  - 'git diff --staged' : if the file is in the staged area
+- 'git diff HEAD~ ' : to compare head (relative solution)
+- 'git diff hash: to compare head (absolute solution)
 
